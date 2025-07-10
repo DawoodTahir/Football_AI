@@ -1,0 +1,4 @@
+gdown
+inference-gpu
+git+https://github.com/roboflow/sports.git
+supervision
